@@ -5,7 +5,7 @@
 #define BLYNK_TEM 
 PLATE_ID "TMPL3mH34WSPz" 
 #define BLYNK_TEMPLATE_NAME "Lawn Sprinkler" 
-#define BLYNK_AUTH_TOKEN "trj3b0fjvc56ACStFOuPNSi21XW8Qr-8" 
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_TOKEN" 
 #define BLYNK_PRINT Serial 
 #include <ESP8266WiFi.h> 
 #include <BlynkSimpleEsp8266.h> 
